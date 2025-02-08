@@ -14,7 +14,7 @@ This repository contains two Python scripts that demonstrate the use of decorato
 The `echo.py` script mimics the effect of yelling at a mountain, where the mountain repeats your words with a "fading" effect. Each repetition fades out the sound one character at a time.
 
 ### Screenshot of `echo.py` Code and Output:
-![Echo.py Code and Output](pythonrefresher/images/echo.png)
+![Echo.py Code and Output](images/echo.png)
 
 ---
 
@@ -36,7 +36,7 @@ The `fib.py` script calculates the nth Fibonacci number using recursion. It uses
 The graph shows the execution time for calculating Fibonacci numbers from 1 to 100. The x-axis represents the Fibonacci number (n), and the y-axis represents the execution time in seconds. As the Fibonacci number increases, the execution time increases as well, which is visible in the plot.
 
 ### Screenshot of Execution Time Plot:
-![Execution Time Plot](pythonrefresher/images/plot.png)
+![Execution Time Plot](images/plot.png)
 
 ---
 
@@ -50,4 +50,4 @@ This project demonstrates basic Python functionality, such as recursion, decorat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/Marcusb8441/pythonrefresher.git
