@@ -26,7 +26,7 @@ The `fib.py` script calculates the nth Fibonacci number using recursion. It uses
 - **`@timer`**: Measures and prints the time it takes for each Fibonacci calculation.
 
 ### Screenshot of `fib.py` Code and Output:
-![Fib.py Code and Output](pythonrefresher/images/fib.png)
+![Fib.py Code and Output](images/fib.png)
 
 ---
 
